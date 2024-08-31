@@ -544,6 +544,33 @@
     
     
     <entry>
+      <title>Mybatis</title>
+      <link href="/2024/05/22/Mybatis/"/>
+      <url>/2024/05/22/Mybatis/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Mybatis"><a href="#Mybatis" class="headerlink" title="Mybatis"></a>Mybatis</h1><h6 id="1-删除"><a href="#1-删除" class="headerlink" title="1.删除"></a>1.删除</h6><p><strong>删除</strong></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/cf2059a6-68f4-4caf-bb2f-3929273f9d20" alt=""></p><p><strong>批量删除</strong></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/32eaa4af-ec5a-4f18-b764-fc7764d827de" alt=""></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/af3b4916-e254-403b-93a0-bdac67739652" alt=""></p><h6 id="2-查询"><a href="#2-查询" class="headerlink" title="2.查询"></a>2.查询</h6><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/55eb228a-6c49-4175-9544-9d5ecbef0ece" alt=""></p><h6 id="3-插入"><a href="#3-插入" class="headerlink" title="3.插入"></a>3.插入</h6><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/5b15907e-324d-4e2a-96ba-2244785a32a6" alt=""></p><p>返回主键的值，用getid获取，如果没有那两个值，返回由于没有事务回滚会导致返回值为null</p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/e52481a2-34ea-47dc-bec3-5ad4bd684642" alt=""></p><h6 id="4-修改"><a href="#4-修改" class="headerlink" title="4.修改"></a>4.修改</h6><p><strong>修改全部字段</strong></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/a2a68689-ee2d-41a6-be4f-acf6898dd785" alt=""></p><p><strong>动态修改字段</strong></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/8e6553a2-ec44-4957-ba2c-b32042691525" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 后端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 后端 </tag>
+            
+            <tag> Mybatis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>javaWeb</title>
       <link href="/2024/04/24/javaWeb/"/>
       <url>/2024/04/24/javaWeb/</url>
@@ -1383,33 +1410,6 @@
             <tag> 逆向 </tag>
             
             <tag> Windows API </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Mybatis</title>
-      <link href="/2023/05/22/Mybatis/"/>
-      <url>/2023/05/22/Mybatis/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Mybatis"><a href="#Mybatis" class="headerlink" title="Mybatis"></a>Mybatis</h1><h6 id="1-删除"><a href="#1-删除" class="headerlink" title="1.删除"></a>1.删除</h6><p><strong>删除</strong></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/cf2059a6-68f4-4caf-bb2f-3929273f9d20" alt=""></p><p><strong>批量删除</strong></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/32eaa4af-ec5a-4f18-b764-fc7764d827de" alt=""></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/af3b4916-e254-403b-93a0-bdac67739652" alt=""></p><h6 id="2-查询"><a href="#2-查询" class="headerlink" title="2.查询"></a>2.查询</h6><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/55eb228a-6c49-4175-9544-9d5ecbef0ece" alt=""></p><h6 id="3-插入"><a href="#3-插入" class="headerlink" title="3.插入"></a>3.插入</h6><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/5b15907e-324d-4e2a-96ba-2244785a32a6" alt=""></p><p>返回主键的值，用getid获取，如果没有那两个值，返回由于没有事务回滚会导致返回值为null</p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/e52481a2-34ea-47dc-bec3-5ad4bd684642" alt=""></p><h6 id="4-修改"><a href="#4-修改" class="headerlink" title="4.修改"></a>4.修改</h6><p><strong>修改全部字段</strong></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/a2a68689-ee2d-41a6-be4f-acf6898dd785" alt=""></p><p><strong>动态修改字段</strong></p><p><img src="https://github.com/WhiteIsBlank/Picture/assets/116374553/8e6553a2-ec44-4957-ba2c-b32042691525" alt=""></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 后端 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 后端 </tag>
-            
-            <tag> Mybatis </tag>
             
         </tags>
       
